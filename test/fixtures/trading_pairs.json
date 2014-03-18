@@ -1,0 +1,91 @@
+[{
+    "id": "ltc\/cny",
+    "price": "105.45000000",
+    "price_before_24h": "106.32000000",
+    "volume_first": "3474716.24369773",
+    "volume_second": "366025867.902357",
+    "volume_btc": "98330.99",
+    "best_market": "okcoin",
+    "latest_trade": "2014-03-18 04:55:53"
+}, {
+    "id": "btc\/cny",
+    "price": "3723.04000000",
+    "price_before_24h": "3832.50000000",
+    "volume_first": "69098.5704127084",
+    "volume_second": "260026363.223839",
+    "volume_btc": "69098.57",
+    "best_market": "okcoin",
+    "latest_trade": "2014-03-18 04:55:50"
+}, {
+    "id": "btc\/usd",
+    "price": "615.63000000",
+    "price_before_24h": "632.70000000",
+    "volume_first": "13933.3546343664",
+    "volume_second": "8688688.70579652",
+    "volume_btc": "13933.35",
+    "best_market": "bitstamp",
+    "latest_trade": "2014-03-18 04:47:56"
+}, {
+    "id": "doge\/btc",
+    "price": "0.00000127",
+    "price_before_24h": "0.00000127",
+    "volume_first": "499064759.675292",
+    "volume_second": "10656.1163361164",
+    "volume_btc": "10656.12",
+    "best_market": "cryptsy",
+    "latest_trade": "2014-03-18 00:50:37"
+}, {
+    "id": "ltc\/btc",
+    "price": "0.02822014",
+    "price_before_24h": "0.02771000",
+    "volume_first": "22573.3434676528",
+    "volume_second": "724.524732606301",
+    "volume_btc": "724.52",
+    "best_market": "cryptsy",
+    "latest_trade": "2014-03-18 00:50:20"
+}, {
+    "id": "btc\/eur",
+    "price": "442.54000000",
+    "price_before_24h": "457.19066000",
+    "volume_first": "515.142155241222",
+    "volume_second": "232214.019520759",
+    "volume_btc": "515.14",
+    "best_market": "kraken",
+    "latest_trade": "2014-03-18 04:48:43"
+}, {
+    "id": "aur\/btc",
+    "price": "0.01610002",
+    "price_before_24h": "0.01400200",
+    "volume_first": "43837.2792022633",
+    "volume_second": "479.966933636651",
+    "volume_btc": "479.97",
+    "best_market": "cryptsy",
+    "latest_trade": "2014-03-18 00:50:19"
+}, {
+    "id": "pcc\/btc",
+    "price": "0.00000400",
+    "price_before_24h": "0.00000750",
+    "volume_first": "81374.4853439331",
+    "volume_second": "262.77704884889",
+    "volume_btc": "262.78",
+    "best_market": "c-cex",
+    "latest_trade": "2014-03-18 00:11:05"
+}, {
+    "id": "drk\/btc",
+    "price": "0.00123898",
+    "price_before_24h": "0.00130445",
+    "volume_first": "35182.5749864578",
+    "volume_second": "157.452992415056",
+    "volume_btc": "157.45",
+    "best_market": "cryptsy",
+    "latest_trade": "2014-03-18 00:50:05"
+}, {
+    "id": "cach\/btc",
+    "price": "0.00597841",
+    "price_before_24h": "0.00604994",
+    "volume_first": "26072.2444645614",
+    "volume_second": "155.363812486641",
+    "volume_btc": "155.36",
+    "best_market": "cryptsy",
+    "latest_trade": "2014-03-18 00:46:17"
+}]
