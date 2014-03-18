@@ -1,6 +1,7 @@
 # CryptocoinchartsApi
 
-TODO: Write a gem description
+Ruby wrapper for the Cryptocoincharts API (http://www.cryptocoincharts.info/).
+You can get more information about the API at http://www.cryptocoincharts.info/v2/tools/api
 
 ## Installation
 
@@ -18,7 +19,28 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+### Available Methods
+
+  list_coins
+  trading_pair
+  trading_pairs
+
+### Initialize a Client
+
+  client = CryptocoinchartsApi::Client.new
+
+### List Coins
+  
+  client.list_coins
+
+### Get a Trading Pair
+
+  client.trading_pair currency_1: 'btc', currency_2: 'ltc'
+
+### Get a List of Trading Pairs
+
+  client.trading_pairs "ltc_btc,drk_btc,ppc_btc,doge_btc"
+
 
 ## Contributing
 
