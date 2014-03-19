@@ -11,8 +11,8 @@ module CryptocoinchartsApi
       api_call "tradingPair/#{currency_1}_#{currency_2}", options
     end
 
-    def trading_pairs(pairs)
-      api_call "tradingPairs", pairs, :post
+    def trading_pairs(options={})
+      api_call "tradingPairs", options, :post
     end
 
   end

@@ -39,7 +39,7 @@ Or install it yourself as:
 
 ### Get a List of Trading Pairs
 
-    client.trading_pairs "ltc_btc,drk_btc,ppc_btc,doge_btc"
+    client.trading_pairs pairs: "ltc_btc,drk_btc,ppc_btc,doge_btc"
 
 
 ## Contributing
