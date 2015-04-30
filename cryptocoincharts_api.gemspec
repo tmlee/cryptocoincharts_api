@@ -22,6 +22,6 @@ Gem::Specification.new do |spec|
   spec.add_dependency('json')
   spec.add_development_dependency('fakeweb')
   spec.add_development_dependency('rake')
-  spec.add_development_dependency('debugger')
+  # spec.add_development_dependency('debugger')
 
 end
