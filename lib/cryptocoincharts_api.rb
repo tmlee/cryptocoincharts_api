@@ -19,8 +19,7 @@ module CryptocoinchartsApi
       @debug = !!v
     end
 
-    API_VERSION = 'v2'
-    BASE_URL = "http://www.cryptocoincharts.info/#{API_VERSION}/api/"
+    BASE_URL = "http://api.cryptocoincharts.info/"
   
     private
   
